@@ -1,9 +1,10 @@
-// ghi chú 1 đòng
+// This is a single line of code
 
 /*
-ghi chú nhiều dòng
-
+Multi-line comment
 console.log(100);
-console.log('xin chào');
-console.log(20 , 'xin chào ',true);
+
+console.log('Hello World');
+
+console.log(20, 'Hello', true);
 */
